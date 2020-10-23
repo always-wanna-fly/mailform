@@ -1,0 +1,4 @@
+name: sender
+recipe: lamp
+config:
+  webroot: .
